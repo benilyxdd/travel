@@ -1,0 +1,5 @@
+Init
+- set main currency
+- only local storage & icloud backup 
+
+- daily / weekly / monthly reports
